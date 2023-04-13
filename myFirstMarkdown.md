@@ -15,7 +15,7 @@
 :point_up:这是图片示例(绝对路径)
 
 ```cpp
-#include(iostream)
+#include<iostream>
 using namespace std;
 void main{
     cout << "Hello World!" << endl;
