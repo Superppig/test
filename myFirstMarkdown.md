@@ -10,9 +10,9 @@
 1. 这是 _有序列表_ 示例
 2. 这是 _有序列表_ 示例
 
-![敢达](F:\wallpaper_download\wallhaven-kx9pg7.jpg)
+![敢达](pic\bg.jpg)
 
-:point_up:这是图片示例(绝对路径)
+:point_up:这是图片示例(相对路径)
 
 ```cpp
 #include<iostream>
@@ -24,7 +24,9 @@ void main{
 :point_up:这是代码块示例
 
 ## 居中,颜色
+<div>
 <center>这是一段居中文字    </center>
 <center><font color=Blue>蓝色的文字!</font></center>
+
 :joy::point_right: 
 
